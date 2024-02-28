@@ -8,9 +8,9 @@ when 'Start Game' is pressed they start moving bouncing off the walls.
 It teaches how to manipulate DOM objects with Javascript programming
 
 ## How to get started with the project
-Simply open index.html in your browser, no need to install or configure anything else.
+Clone the repo and open locally index.html in your browser, no need to install or configure anything else.
 
 ## Roadmap of future improvements
 Curently I do not plan any further activities in this repository. 
 
-<img src="PacMan1.png">
+<img src="images/PacMan1.png">
